@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "optimize": "gifsicle --batch --optimize=200 --colors 256"
+  },
   "devDependencies": {
     "gifsicle": "^5.1.0"
   }
