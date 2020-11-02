@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "optimize": "gifsicle -O3 --lossy=120 -o optimized.gif"
+    "optimize": "gifsicle -O3 --lossy=120 -o optimized.gif --colors=200"
   },
   "devDependencies": {
     "gifsicle": "^5.1.0"
